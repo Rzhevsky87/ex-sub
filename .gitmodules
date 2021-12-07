@@ -1,0 +1,3 @@
+[submodule ".ex-dock"]
+	path = .ex-dock
+	url = git@github.com:Rzhevsky87/octodock.git
